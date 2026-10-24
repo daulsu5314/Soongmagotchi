@@ -1,0 +1,32 @@
+{
+  "name": "숭마고치",
+  "short_name": "숭마고치",
+  "description": "꼬마 원숭이 노숭이를 하뀨하 최고의 래퍼로 키우는 픽셀 다마고치",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf1e8",
+  "theme_color": "#e8742c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
